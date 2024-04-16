@@ -1,0 +1,22 @@
+.icon-bar{
+    background-color: darkgray;
+    width:100%;
+    overflow: auto;
+}
+
+.icon-bar a{
+    float:left;
+    width:20%;
+    text-align:center;
+    padding:12px 0;
+    font-size: 36px;
+    color:white;
+}
+
+.icon-bar a:hover{
+    background-color: lightblue;
+}
+
+.active{
+    background-color: darkgreen;
+}
